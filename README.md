@@ -25,4 +25,4 @@ An ML pipeline classifying 30-day forward volatility regimes, built to avoid loo
 
 Finishing my MSc, consulting on AI implementation for a major global asset manager, and building something small that people can actually use. Open to applied AI and AI engineering roles at small teams building things people rely on.
 
-**[LinkedIn](https://linkedin.com/in/matthew-huang17)** · **[email](mailto:YOUR_PUBLIC_EMAIL)** · site and X coming soon
+**[LinkedIn](https://linkedin.com/in/matthew-huang17)** · **[email](mailto:matt@matthuang.dev)** · **[site](matthuang.dev)** · **[Twitter/X](https://x.com/matthuang_dev)
