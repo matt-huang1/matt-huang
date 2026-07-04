@@ -18,7 +18,7 @@ A deterministic verification layer for AI-assisted research. The model proposes;
 **[tutor-analytics](https://github.com/matt-huang1/tutor-analytics)**
 A full-stack platform that scores free-text answers with an LLM behind a strict policy boundary, then runs deterministic analytics with zero further model calls. Nothing the model returns reaches the database unchecked.
 
-**Volatility Regime Forecasting**
+**[Volatility Regime Forecasting](https://github.com/matt-huang1/volatility-engine)**
 An ML pipeline classifying 30-day forward volatility regimes, built to avoid look-ahead bias and read with SHAP rather than left as a black box.
 
 ### Now
