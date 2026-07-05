@@ -13,7 +13,7 @@ First Class BSc Mathematics (Bristol), finishing an MSc in Business Analytics & 
 ### Selected work
 
 **[claim-verification-pipeline](https://github.com/matt-huang1/claim-verification-pipeline)**
-A deterministic verification layer for AI-assisted research. The model proposes; code verifies every URL, quote, and figure against primary sources it fetches itself; humans keep the judgment. It attacks itself in CI with spoofed domains and fabricated quotes (7/7 caught), and it found a real port-injection exploit that a separate review had passed as safe. 380 tests, 93% coverage, 27 ADRs.
+A deterministic verification layer for AI-assisted research. The model proposes; code verifies every URL, quote, and figure against primary sources it fetches itself; humans keep the judgment. It attacks itself in CI with spoofed domains and fabricated quotes (7/7 caught), and it found a real port-injection exploit that a separate review had passed as safe. 363 in CI / 380 total, 93% coverage, 27 ADRs.
 
 **[tutor-analytics](https://github.com/matt-huang1/tutor-analytics)**
 A full-stack platform that scores free-text answers with an LLM behind a strict policy boundary, then runs deterministic analytics with zero further model calls. Nothing the model returns reaches the database unchecked.
